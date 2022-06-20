@@ -15,7 +15,7 @@ CheckTicket.show()会展示最终的输出结果
 1. **Selenium driver**
 - 使用此程序依赖chrome浏览器和对应chrome版本的selenium driver 
 - 你可以通过[这个网站](https://chromedriver.chromium.org/downloads)来下载对应你的浏览器版本的selenium driver   
-2. **Prettytable 和 sSelenium 依赖库**
+2. **Prettytable 和 Selenium 依赖库**
 - 使用前可以通过pip install -r requirements.txt安装对应的依赖库，但是selenium driver需要到官方网站自行安装  
 - 使用Jupyter Notebook的情况需要在Anaconda下单独输入pip install  prettytable==3.3.0 和 pip install selenium==4.2.0
 3. **Webdriver路径**
